@@ -1,6 +1,6 @@
 {
   "name": "ubyranator",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "description": "Ubyra Variations Generator",
   "main": "./index",
   "scripts": {
