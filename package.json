@@ -1,0 +1,23 @@
+{
+  "name": "ubyranator",
+  "version": "1.0.9",
+  "description": "Ubyra Variations Generator",
+  "main": "./index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate-ubyra": "node -e \"require('./index').ubyraname()\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/costanilo/ubyranator.git"
+  },
+  "author": "Danilo Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/costanilo/ubyranator/issues"
+  },
+  "homepage": "https://github.com/costanilo/ubyranator#readme",
+  "bin": {
+    "ubyranator": "./cli.js"
+  }
+}
