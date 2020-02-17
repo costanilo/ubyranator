@@ -1,1 +1,3 @@
 # ubyranator
+
+RUN: npx ubyranator
